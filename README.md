@@ -38,13 +38,15 @@ You can install the required packages by running the following command:
 
 After training the model and making predictions, the following results can be observed:
 
-- Accuracy: X%
+- Accuracy: 72%
 - Confusion Matrix:
 
 ![image](https://github.com/niravpatidar37/Diabetes-Prediction-With-deployment/assets/51831628/5d415707-ee76-4838-a544-e80ae210dbff)
 
-- Feature Importance: [insert image/link]
-- ROC Curve: [insert image/link]
+- Feature Importance:
+
+- ![image](https://github.com/niravpatidar37/Diabetes-Prediction-With-deployment/assets/51831628/f5583e25-4452-4efb-b56a-e2f9c1b6fda5)
+
 
 ## Contributing
 
