@@ -47,6 +47,8 @@ After training the model and making predictions, the following results can be ob
 
 - ![image](https://github.com/niravpatidar37/Diabetes-Prediction-With-deployment/assets/51831628/f5583e25-4452-4efb-b56a-e2f9c1b6fda5)
 
+- ROC Curve
+- ![image](https://github.com/niravpatidar37/Diabetes-Prediction-With-deployment/assets/51831628/5b451eec-50fb-4b1d-a24c-22f492b50fa8)
 
 ## Contributing
 
